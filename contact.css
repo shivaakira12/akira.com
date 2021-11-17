@@ -81,15 +81,37 @@ header .nav-bar ul a{
 	transition: 0.7s ease;
 	-webkit-transition:all 0.3s ease-in-out
 }
-.about-container{
+.contact-container{
 	line-height: 2.5;
 	padding: 40px;
 }
-.about-container h1{
+.contact-container h1{
 	color:rgb(141, 141, 141);
+
 }
-.about-container p{
-	color:rgb(141, 141, 141);
+.form{
+	color: #e5e5e5;
+	line-height: 3;
+	display: block;
+}
+.form input{
+	padding: 7px 10px;
+	border: none;
+	width: 100%;
+	outline: none;
+}
+.form textarea{
+	border: none;
+	width: 100%;
+	outline: none;
+}
+.btn{
+	margin-top: 20px;
+}
+.btn a{
+	background-color: teal;
+	padding: 10px 20px;
+	color: #e5e5e5;
 }
 .footer-content{
 	border-top: 1px solid gray;
