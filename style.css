@@ -167,12 +167,13 @@ header .nav-bar ul a{
 }
 .footer-holder p{
 	padding: 40px;
-	font-size: 12px;
+	font-size: 15px;
 	color: #e5e5e5;
 	text-align: center;
 }
 .footer-holder span{
 	color: teal;
+	font-weight: bolder;
 }
 .gotopbtn{
 	position: fixed;
